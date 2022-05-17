@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(47, 137, 216)
+    
+}
+h1{
+    font-family: monospace;
+    color: rgb(110, 20, 20);
+    margin-top: 40px;
+    align-items: center;
+}
